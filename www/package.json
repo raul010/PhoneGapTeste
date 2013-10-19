@@ -1,0 +1,29 @@
+{
+  "name": "PhoneGap",
+  "main": "index.html",
+  "description": "Eae PhoneGap",
+  "version": "0.1.0",
+  "keywords": [ "demo", "node-webkit" ],
+    "window": {
+      "title": "Eae PhoneGap",
+      "icon": "link.png",
+      "toolbar": false,
+      "frame": true,
+      "width": 800,
+      "height": 500,
+      "position": "mouse",
+      "__min_width": 400,
+      "__min_height": 200,
+      "__max_width": 800,
+      "__max_height": 600
+    },
+    
+   "webkit": {
+      "plugin": true
+  },
+    "maintainers":[ {
+    "name": "Raul Abreu Leite",
+    "email": "raul.abreu.leite@gmail.com",
+    "web": "http://www.blog.com"
+  }]
+}
